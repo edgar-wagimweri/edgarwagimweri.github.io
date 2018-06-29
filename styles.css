@@ -1,0 +1,103 @@
+#footballer{
+    text-align: center;
+    font-family: 'Coming Soon';
+}
+
+#flourishIt{
+    background-color: #ff0;
+}
+
+#secondDivision{
+    padding: 1%
+}
+
+#thirdDivision{
+    background-color: #000;
+    color: whitesmoke;
+    padding: 5px;
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+.buttonPress{
+    background-color: lightseagreen;
+    color: black;
+    border: none;
+    padding: 10px 25px;
+    width:inherit;
+    border-radius: 10px;
+    font-family: 'Coming Soon';
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.buttonPress:hover {
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+}
+
+.colorOver:hover {
+    cursor: pointer;
+}
+
+#colorPicker{
+    border: none;
+}
+
+#pixelCanvas{
+    cursor: pointer;
+}
+
+.sideAlign{
+    float: right;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Handlee', 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', 'serif';
+    background-color: #fff;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 0.2em;
+    text-transform: uppercase;
+   
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    text-decoration: underline;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid #000;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 10em;
+}
